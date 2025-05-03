@@ -1,4 +1,5 @@
 apply plugin: 'kotlin-android'
+apply plugin: 'maven-publish'
 
 // 通用配置
 android {
